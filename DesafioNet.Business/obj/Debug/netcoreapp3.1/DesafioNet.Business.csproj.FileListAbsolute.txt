@@ -1,0 +1,5 @@
+C:\Users\João\source\repos\DesafioNet\DesafioNet.Business\obj\Debug\netcoreapp3.1\DesafioNet.Business.csproj.AssemblyReference.cache
+C:\Users\João\source\repos\DesafioNet\DesafioNet.Business\obj\Debug\netcoreapp3.1\DesafioNet.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João\source\repos\DesafioNet\DesafioNet.Business\obj\Debug\netcoreapp3.1\DesafioNet.Business.AssemblyInfoInputs.cache
+C:\Users\João\source\repos\DesafioNet\DesafioNet.Business\obj\Debug\netcoreapp3.1\DesafioNet.Business.AssemblyInfo.cs
+C:\Users\João\source\repos\DesafioNet\DesafioNet.Business\obj\Debug\netcoreapp3.1\DesafioNet.Business.csproj.CoreCompileInputs.cache
